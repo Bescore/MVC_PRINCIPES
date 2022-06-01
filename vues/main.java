@@ -1,6 +1,5 @@
 package vues;
 
-import controllers.Connections;
 import controllers.CrudClient;
 
 public class main {
