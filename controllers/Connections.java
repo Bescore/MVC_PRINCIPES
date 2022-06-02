@@ -18,7 +18,6 @@ import java.sql.SQLException;
 
 	             try {
 	        connect = (Connection) DriverManager.getConnection(url+dbName,user,pwd);
-	        System.out.println("OK for connect");
 
 	        } catch (SQLException e) {
 	        // TODO Auto-generated catch block
